@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+	Agustin Lautaro
+	Contact: aencaje [at] gmail.com
+	Twitter: @agustinlautaro
+	From: Buenos Aires, Argentina
+
+# SITE
+	Last update: XX/XX/XXXX
+	Language:
+	Doctype: HTML5
+	IDE:
