@@ -1,6 +1,7 @@
 # HTML5-Starter
 
-git 
+Basic HTML5 starter template 🎈
+Include jQuery and [normalize.css](https://necolas.github.io/normalize.css/)
 
 ### Folder structure
 
@@ -11,6 +12,7 @@ html5-starter/
 ├── humans.txt
 ├── robots.txt
 ├── manifest.json
+├── favicon.ico
 ├── css/
 │   ├── normalize.css
 │   └── main.css
