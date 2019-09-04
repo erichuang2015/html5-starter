@@ -1,6 +1,6 @@
 # HTML5-Starter
 
-Basic HTML5 starter template 🎈
+Basic HTML5 starter template 🎈.  
 Include jQuery and [normalize.css](https://necolas.github.io/normalize.css/)
 
 ### Folder structure
